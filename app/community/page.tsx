@@ -21,7 +21,7 @@ interface Message {
 const initialMessages: Message[] = [
   {
     id: 1,
-    author: "Sarah M.",
+    author: "Dorcas O.",
     content:
       "Just wanted to share that I've been using the meal planner for 2 weeks now and my blood sugar levels have been much more stable! The recipes are actually delicious too. Thank you for this amazing resource!",
     timestamp: "2 hours ago",
@@ -39,7 +39,7 @@ const initialMessages: Message[] = [
   },
   {
     id: 3,
-    author: "Jennifer L.",
+    author: "Samuel L.",
     content:
       "The Greek Yogurt Berry Bowl has become my go-to breakfast! I add some chopped walnuts for extra protein. My morning readings have improved significantly.",
     timestamp: "1 day ago",
