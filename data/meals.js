@@ -6,7 +6,7 @@ export const recipes = [
     carbs: 28,
     sugar: 3,
     category: "dinner",
-    image: "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-90d8-6246-a769-099391b78532/raw?se=2025-09-26T20%3A16%3A41Z&sp=r&sv=2024-08-04&sr=b&scid=23955b7c-61f9-580d-b880-7518bd702d97&skoid=82a3371f-2f6c-4f81-8a78-2701b362559b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-26T17%3A44%3A42Z&ske=2025-09-27T17%3A44%3A42Z&sks=b&skv=2024-08-04&sig=Lb%2BiatTR439sJ/j6XmHb9Mx%2BP7EORcpqFVkH0XnWJ7Y%3D",
+    image: "https://eatsomethingvegan.com/wp-content/uploads/2021/11/vegan-rice-and-beans-sq-1.jpg",
     description: "A hearty mix of rice and beans served with fresh vegetables, providing a balanced and filling mea",
     ingredients: ["Vegetable", "Beans", "Rice", "Olive oil", "Fish and egg"],
     cookTime: "55 minutes",

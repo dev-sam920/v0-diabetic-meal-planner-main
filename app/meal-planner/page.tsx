@@ -32,10 +32,10 @@ export default function MealPlannerPage() {
   const generateMealPlan = async () => {
     setIsLoading(true)
 
-    // Simulate API call delay
+    
     await new Promise((resolve) => setTimeout(resolve, 1000))
 
-    // Determine meal plan type based on form data
+    
     let planType = "type2-balanced" // default
 
     if (formData.diabetesType === "type1" && formData.dietaryPreferences === "low-carb") {
